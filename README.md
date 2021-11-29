@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 my name is José, welcome to my little space of WIP projects.
+
+<hr />
+
+## About me
+
+I've been working as a Software Developer for over 7 years.
 
 <!--
 **jparadasb/jparadasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
