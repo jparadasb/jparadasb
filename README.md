@@ -22,7 +22,7 @@ About my work experience
 I have been working with several languages and frameworks.
 I like to work with React from the front-end side. I have experience with it in almost every of my last work positions, but I also have experience working with javascript in general. 
 I have experience working with Nodejs from the back-end side using express as a framework.
-My most recent experience as a back-end developer was using Elixir and Phoenix, and I love it.
+My most recent experience as a back-end developer was using Elixir and Phoenix, and I loved it.
 
 ## Technologies that I love to use
 <div >
