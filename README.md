@@ -9,13 +9,13 @@
 
 ## About me
 
-I've been working as a Software Developer for over seven years. 
+I've been working as a Software Developer 🧑🏻‍💻 for over seven years. 
 
 One of the words that can describe me is curious. I have many questions, and I'm always looking for the answers. 
 
 I like to experiment and create things to learn around the process. For example, I built my house lab using raspberry pies to create a k3s cluster in my house because I wanted to learn Kubernetes. And currently, I use it to keep live the services dedicated to the automation of lights and sensors at home.
 
-My other passion is astrophotography, I want to have more compression about outer space, and I like to have snapshots of the stars. I enjoy the process of revealing a raw picture and how to use programs to stack and create beautiful full stars images. So, I have some ideas to make things with IoT and photography on my list. 
+My other passion is astrophotography ☄️🔭📸, I want to have more compression about outer space, and I like to have snapshots of the stars. I enjoy the process of revealing a raw picture and how to use programs to stack and create beautiful full stars images. So, I have some ideas to make things with IoT and photography on my list. 
 
 About my work experience
 
