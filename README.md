@@ -11,18 +11,18 @@
 
 I've been working as a Software Developer 🧑🏻‍💻 for over seven years. 
 
-One of the words that can describe me is curious. I have many questions, and I'm always looking for the answers. 
+One of the words that can describe me is curious. I have many questions, and I constantly ask myself many questions, and I'm always looking for their answers. 
 
-I like to experiment and create things to learn around the process. For example, I built my house lab using raspberry pies to create a k3s cluster in my house because I wanted to learn Kubernetes. And currently, I use it to keep live the services dedicated to the automation of lights and sensors at home.
+I enjoy the process of learning about new stuff by experimenting and creating things. For example, I built my house lab using raspberry pies to create a k3s cluster in my house because I wanted to learn Kubernetes. And currently, I use it to keep live the services dedicated to the automation of lights and sensors at home.
 
-My other passion is astrophotography ☄️🔭📸, I want to have more compression about outer space, and I like to have snapshots of the stars. I enjoy the process of revealing a raw picture and how to use programs to stack and create beautiful full stars images. So, I have some ideas to make things with IoT and photography on my list. 
+My other passion is astrophotography ☄️🔭📸, I want to have a better understanding about outer space, and I love taking snapshots of the stars. I enjoy the process of revealing a raw picture and how to use programs to stack and create beautiful full stars images. So, I have some ideas to make things with IoT and photography on my list. 
 
 About my work experience
 
 I have been working with several languages and frameworks.
-I like to work with React from the front-end side. I have experience with it in almost every of my last work positions, but I also have experience working with javascript in general. 
-I have experience working with Nodejs from the back-end side using express as a framework.
-My most recent experience as a back-end developer was using Elixir and Phoenix, and I loved it.
+I like working with React for the front end. I have worked with it in most of my latest positions, but I also have experience working with javascript in general.
+I also have experience working with Nodejs for the back end, using express as a framework.
+My most recent experience as back-end developer involved using Elixir and Phoenix, and I loved it.
 
 ## Technologies that I love to use
 <div >
