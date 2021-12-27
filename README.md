@@ -49,7 +49,7 @@ My most recent experience as back-end developer involved using Elixir and Phoeni
 <div align="left">
   <a href="https://github.com/jparadasb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jparadasb&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparadasb&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jparadasb&layout=compact&langs_count=7&theme=gradient&hide=php,python"/>
 </div>
 
 <!--
