@@ -9,20 +9,13 @@
 
 ## About me
 
-I've been working as a Software Developer 🧑🏻‍💻 for over seven years. 
+I am a seasoned Software Developer 🧑🏻‍💻  with over 7 years of experience in the field. I am a curious individual who is always seeking answers to my many questions and I enjoy learning about new technologies through experimentation and creation.
 
-One of the words that can describe me is curious. I have many questions, and I constantly ask myself many questions, and I'm always looking for their answers. 
+One of my recent personal projects involved building a home lab using Raspberry Pis to create a k3s cluster. This allowed me to delve deeper into Kubernetes and now I use my lab to run services dedicated to home automation.
 
-I enjoy the process of learning about new stuff by experimenting and creating things. For example, I built my house lab using raspberry pies to create a k3s cluster in my house because I wanted to learn Kubernetes. And currently, I use it to keep live the services dedicated to the automation of lights and sensors at home.
+Astrophotography ☄️🔭📸 is another passion of mine. I am fascinated with the universe and I love capturing its beauty through my camera lens. I enjoy the process of taking raw photos and enhancing them through stacking and image processing software to produce stunning images of the stars. I have several ideas in mind for incorporating IoT and photography into future projects.
 
-My other passion is astrophotography ☄️🔭📸, I want to have a better understanding about outer space, and I love taking snapshots of the stars. I enjoy the process of revealing a raw picture and how to use programs to stack and create beautiful full stars images. So, I have some ideas to make things with IoT and photography on my list. 
-
-About my work experience
-
-I have been working with several languages and frameworks.
-I like working with React for the front end. I have worked with it in most of my latest positions, but I also have experience working with javascript in general.
-I also have experience working with Nodejs for the back end, using express as a framework.
-My most recent experience as back-end developer involved using Elixir and Phoenix, and I loved it.
+In terms of my technical expertise, I am well-versed in React for front-end development and have extensive experience with JavaScript. I have also worked with Node.js, Express and Elixir/Phoenix for back-end development. I truly enjoy using Elixir and Phoenix for back-end work, as it offers a highly functional and scalable solution.
 
 ## Technologies that I love to use
 <div >
