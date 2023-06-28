@@ -33,7 +33,7 @@ In terms of my technical expertise, I am well-versed in React for front-end deve
   <img align="center" title="Drone CI" alt="Drone CI" height="50" src="https://camo.githubusercontent.com/9edae08c8917f60311ee743c96eb2f567a7d99d9ddfbc8ba81115a22d6f00140/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f64726f6e652e737667" />
   <img align="center" title="Git" alt="Git" height="50" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667" />
   <img align="center" title="Raspberry Pi" alt="Raspberry pi" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
-  <img align="center" title="Home Assistant" alt="Home Assistant" height="50" src="https://raw.githubusercontent.com/home-assistant/assets/master/logo/logo-pretty.svg" />
+  <img align="center" title="Home Assistant" alt="Home Assistant" height="50" src="https://commons.wikimedia.org/wiki/File:Home_Assistant_Logo.svg" />
   <img align="center" title="Visual Studio Code" alt="Visual Studio Code" height="50" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667" />
 </div>
 
